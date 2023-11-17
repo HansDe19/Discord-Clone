@@ -1,0 +1,298 @@
+.Section1{
+    background-color: #404eed;
+    color: #ffffff;
+}
+.navbar{
+    color: #ffffff;
+    text-decoration: none;
+}
+.bapaknavbar{
+    display: flex;
+    column-gap: 35px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.NavBarPos{
+    display: flex;
+    align-items: center;
+    padding: 22px 169px;
+    justify-content: space-between;
+}
+.logbut{
+    background-color: #ffffff;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    padding: 11px 16px;
+}
+.imagine{
+    text-align: center;
+    font-size: 70px;
+    font-family: Helvetica, sans-serif;
+}
+.tengah{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    align-items: center;
+}
+.download{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.gambar1{
+    position: absolute;
+    left: -280px;
+    bottom: 0;
+}
+.gambar2{
+    position: absolute;
+    right: -225px;
+    bottom: 0;
+}
+.desc{
+    font-size: medium;
+    margin: 30px 410px;
+    text-align: center;
+    line-height: 30px;
+}
+.tombol1{
+    display: inline-flex;
+    background-color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    padding: 15px 30px;
+    font-size: large;
+    align-items: center;
+}
+.tombol2{
+    display: inline-flex;
+    background-color: #23272a;
+    color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    padding: 15px 30px;
+    font-size: large;
+    align-items: center;
+}
+.tombol{
+    display: inline-flex;
+    align-items: center;
+    column-gap: 25px;
+}
+
+.section2{
+    background-color: #ffffff;
+}
+
+.bgsec2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    column-gap: 40px;
+}
+
+.title2{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.words2{
+    margin: 0px 65px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.desc2{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.section3{
+    background-color: #f6f6f6;
+}
+
+.bgsec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    column-gap: 40px;
+}
+
+.title3{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.words3{
+    display: flex;
+    margin: 0px 65px;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.desc3{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.section4{
+    background-color: #ffffff;
+}
+
+.bgsec4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 150px;
+    column-gap: 40px;
+}
+
+.title4{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.words4{
+    margin: 0px 65px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.desc4{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.gambar4{
+    height: 660px;
+    width: 660px;
+}
+
+.section5{
+    background-color: #f6f6f6;
+}
+
+.bgsec5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.words5{
+    display: flex;
+    margin: 65px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin: 50px 250px;
+}
+
+.title5{
+    font-size: 40px;
+    color: #23272a;
+    font-weight: bolder;
+    display: inline-flex;
+    text-align: center;
+}
+
+.desc5{
+    font-size: 20px;
+    font-weight: 300;
+    display: flex;
+    text-align: center;
+}
+
+.gambar5{
+    height: 1000px;
+    width: 1000px;
+    margin: -200px;
+}
+
+.title6{
+    font-size: 32px;
+    margin: 50px;
+}
+
+.tombol3{
+    display: inline-flex;
+    background-color: #404eed;
+    color: #ffffff;
+    border-radius: 30px;
+    border: none;
+    padding: 15px 30px;
+    font-size: large;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.section6{
+    background-color: #23272a;
+    color: #ffffff;
+    padding: 100px 200px;
+}
+
+.sebelum{
+    display: grid;
+    grid-template-columns: 2fr repeat(4, 1fr);
+}
+
+.sosmed{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.pilihan{
+    border: none;
+    outline: none;
+    background-color: #23272a;
+    color: #ffffff;
+}
+
+.product{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.titlepro{
+    margin-bottom: 10px;
+    color: #404eed;
+}
+
+.garis{
+    border-color: #404eed;
+    margin: 40px 0px;
+}
+
+.terakhir{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tombolup{
+    background-color: #404eed;
+    color: #ffffff;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    padding: 11px 16px;
+}
+
+*{
+    margin: 0;
+    font-family: "gg sans", "Noto Sans";
+}
